@@ -32,27 +32,27 @@ Everyone in the organisation. This isn’t static: it will evolve with your feed
 - **Adaptability** – Good leadership shifts depending on context and scale.  
 - **Empathy** – People first; processes follow.  
 - **Ownership** – Everyone owns outcomes, not just tasks. If you spot a problem, flag it or fix it.  
-- **Candour** – Speak up early and honestly. Disagree if needed. Alignment stems from clarity.
-- **Efficiency** – Making the most of our time, resources, and workflows without compromising quality.
+- **Candour** – Speak up early and honestly. Disagree if needed. Alignment stems from clarity.  
+- **Efficiency** – Making the most of our time, resources, and workflows without compromising quality.  
 
 ---
 
 ## 3. Communication & Availability  
 
 ### **How to Reach Me**  
-- **Slack/Teams** – Best for quick, informal messages (I try to respond to non-urgent messages within an hour). Use ‼️ or 🚨 for urgent items (response time: asap).  
-- **Email** – Ideal for longer updates or things that need a bit of thought.  
-- **Calendar** – Please book (most) meetings in advance. Blockers or other urgent issues? Let me know, and we'll sort it out asap.
+- **Slack/Teams** – Best for quick, informal messages (I aim to respond to non-urgent items within an hour). Use 🟡 for urgent matters (I’ll respond ASAP).  
+- **Email** – Ideal for longer updates or requests requiring deeper thought.  
+- **Calendar** – Please book most meetings in advance so I can prioritise and prepare. If you’re blocked or need urgent help, let me know—we’ll sort it out ASAP.  
 
 ### **Working Hours & Flexibility**  
-- **In-Office Days** – Our anchor days for planning and team time are flexible.  
-- **Remote Work** – I fully trust you to manage your time. If you’re away for more than an hour during core working hours (10am–4pm), pop an “Out of Office” note in your calendar.  
-- **After Hours** – No response expected. Don't check your Slack, unless you're on-call.
+- **In-Office Days** – Our anchor days for planning and team time are flexible (we'll defined them togetherr).  
+- **Remote Work** – I fully trust you to manage your time. If you’re away for more than an hour during core hours (10am–4pm), add an “Out of Office” note to your calendar.  
+- **After Hours** – No response expected unless you’re on-call. Please avoid checking Slack/Teams outside work hours.  
 
 ### **On-Call & Production Support**  
-- **Rotation** – Each day, one team member keeps an eye on production support.  
-- **What to Do** – Investigate issues, flag anything urgent. You’re not expected to fix everything immediately.  
-- **Escalation** – Acknowledge alerts by replying. If something’s still unresolved by the end of the day, escalate it.  
+- **Rotation** – Each day, one team member monitors production support.  
+- **What to Do** – Investigate issues and flag urgency (e.g., respond with an emoji like 🟡 or 🚨). You’re not expected to fix everything immediately.  
+- **Escalation** – Acknowledge alerts promptly. If unresolved by the end of the day, escalate with a ticket or message.  
 
 ---
 
@@ -60,7 +60,7 @@ Everyone in the organisation. This isn’t static: it will evolve with your feed
 
 ### **Planning & Sprints**  
 - **Sprint Planning** – Held every other Monday. We focus on estimating well and delivering real value.  
-- **Ticket Ownership** – Read every ticket carefully. If something’s unclear, raise a hand.  
+- **Ticket Ownership** – Read every ticket carefully. If something’s unclear, raise it early.  
 - **If Estimates Go Wrong** – Raise it early. We aim to improve accuracy — not push through at all costs.  
 
 ### **Retrospectives**  
@@ -76,17 +76,17 @@ Everyone in the organisation. This isn’t static: it will evolve with your feed
 - **Default Mode** – Decisions should sit with those closest to the work.  
 - **When I Step In** – If things are blocked, misaligned, or affect the wider organisation.  
 - **How We Decide**  
-  - Collaboratively.
+  - Collaboratively.  
   - Use data where we can.  
   - Run small experiments over debating hypotheticals.  
-  - Choose simple, reversible paths when possible.
+  - Choose simple, reversible paths when possible.  
 
 ---
 
 ## 6. Feedback & Growth  
 
 ### **1:1s**  
-- **Weekly**, 30 minutes. You set the agenda (please share it the day before).  
+- **Weekly**, 30 minutes. You lead the agenda (please share it the day before).  
 - **Focus Areas**:  
   - Career growth and skills development.  
   - Blockers or team dynamics.  
@@ -94,7 +94,7 @@ Everyone in the organisation. This isn’t static: it will evolve with your feed
 - I’m also keen to hear how I can improve: share feedback however works best for you (1:1s, DMs, email, or anonymously).  
 
 ### **Career Development**  
-- We’ll check in on your career path every quarter - or at least biannually. I’ll help you find opportunities that align with your goals, even if that means looking outside your current team.  
+- We’ll check in on your career path every quarter — or at least biannually. I’ll help you find opportunities that align with your goals, even if that means looking outside your current team.  
 
 ### **Initiative Ownership**  
 - If something bothers you or slows you down, take the lead: log it, flag it, or suggest a change. We’ll prioritise from there.  
@@ -127,11 +127,11 @@ Everyone in the organisation. This isn’t static: it will evolve with your feed
 - Coaching new leaders  
 - Untangling ambiguous problems  
 - Building systems that last  
-- Outside of work: Travelling (sometimes), reading (often), and exploring green spaces with my family
+- Outside of work: Travelling (sometimes), reading (often), and exploring green spaces with my family  
 
 ---
 
-### **Final Thought**  
+### **Final Thoughts**  
 This isn’t meant to be perfect or complete. It’s a starting point—something we’ll shape together as we go. If anything here doesn’t sit right, please say so. I’m always open to the conversation.  
 
 *Thanks for taking the time to read this. I look forward to hearing your thoughts.*
