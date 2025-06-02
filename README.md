@@ -86,7 +86,7 @@ Everyone in the organisation. This isn’t static: it will evolve with your feed
 ## 6. Feedback & Growth  
 
 ### **1:1s**  
-- **Weekly**, 30 minutes. You lead the agenda (please share it the day before).  
+- **Weekly or Fortnightly**, 30 minutes. You lead the agenda (please share it the day before).  
 - **Focus Areas**:  
   - Career growth and skills development.  
   - Blockers or team dynamics.  
@@ -126,12 +126,12 @@ Everyone in the organisation. This isn’t static: it will evolve with your feed
 ### **What Keeps Me Going**  
 - Coaching new leaders  
 - Untangling ambiguous problems  
-- Building systems that last  
+- Building robust systems  
 - Outside of work: Travelling (sometimes), reading (often), and exploring green spaces with my family  
 
 ---
 
 ### **Final Thoughts**  
-This isn’t meant to be perfect or complete. It’s a starting point—something we’ll shape together as we go. If anything here doesn’t sit right, please say so. I’m always open to the conversation.  
+This isn’t meant to be perfect or complete. It’s a starting point: something we’ll shape together as we go. If anything here doesn’t sit right, please say so. I’m always open to suggestions.  
 
 *Thanks for taking the time to read this. I look forward to hearing your thoughts.*
