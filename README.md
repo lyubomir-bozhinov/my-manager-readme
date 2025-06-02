@@ -61,7 +61,7 @@ Everyone in the organisation. This isn’t static: it will evolve with your feed
 ### **Planning & Sprints**  
 - **Sprint Planning**: Held every other Monday. We focus on estimating well and delivering real value.  
 - **Ticket Ownership**: Read every ticket carefully. If something’s unclear, raise it early.  
-- **If Estimates Go Wrong**: Raise it early. We aim to improve accuracy — not push through at all costs.  
+- **If Estimates Go Wrong**: Raise it early. We aim to improve accuracy, not push through at all costs.  
 
 ### **Retrospectives**  
 - We run these at the end of each sprint. Share what didn’t go well, but also suggest how we can fix or improve it.  
