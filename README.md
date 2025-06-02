@@ -6,7 +6,7 @@
 ## 1. Introduction  
 
 ### **Purpose**  
-This document outlines how I work, what I value, and what you can expect from me — and what I’ll expect in return. It’s here to:  
+This document outlines how I work, what I value, and what you can expect from me - and what I’ll expect in return. It’s here to:  
 - Reduce ambiguity by setting clear expectations.  
 - Encourage you to question, challenge, and contribute openly.  
 - Share lessons from my journey in executive and hands-on engineering leadership.  
@@ -24,57 +24,57 @@ Everyone in the organisation. This isn’t static: it will evolve with your feed
 ## 2. My Role & Values  
 
 ### **How I Define Success**  
-1. **Team Autonomy** – The team runs smoothly even when I’m not directly involved in every detail.  
-2. **Reliable Delivery** – We consistently ship excellent work and meet deadlines without sacrificing quality.  
-3. **Career Growth** – Supporting you in growing your career, even if it eventually takes you elsewhere.  
+1. **Team Autonomy**: The team runs smoothly even when I’m not directly involved in every detail.  
+2. **Reliable Delivery**: We consistently ship excellent work and meet deadlines without sacrificing quality.  
+3. **Career Growth**: Supporting you in growing your career, even if it eventually takes you elsewhere.  
 
 ### **What I Value**  
-- **Adaptability** – Good leadership shifts depending on context and scale.  
-- **Empathy** – People first; processes follow.  
-- **Ownership** – Everyone owns outcomes, not just tasks. If you spot a problem, flag it or fix it.  
-- **Candour** – Speak up early and honestly. Disagree if needed. Alignment stems from clarity.  
-- **Efficiency** – Making the most of our time, resources, and workflows without compromising quality.  
+- **Adaptability**: Good leadership shifts depending on context and scale.  
+- **Empathy**: People first; processes follow.  
+- **Ownership**: Everyone owns outcomes, not just tasks. If you spot a problem, flag it or fix it.  
+- **Candour**: Speak up early and honestly. Disagree if needed. Alignment stems from clarity.  
+- **Efficiency**: Making the most of our time, resources, and workflows without compromising quality.  
 
 ---
 
 ## 3. Communication & Availability  
 
 ### **How to Reach Me**  
-- **Slack/Teams** – Best for quick, informal messages (I aim to respond to non-urgent items within an hour). Use 🟡 for urgent matters (I’ll respond ASAP).  
-- **Email** – Ideal for longer updates or requests requiring deeper thought.  
-- **Calendar** – Please book most meetings in advance so I can prioritise and prepare. If you’re blocked or need urgent help, let me know—we’ll sort it out ASAP.  
+- **Slack/Teams**: Best for quick, informal messages (I aim to respond to non-urgent items within an hour). Use 🟡 for urgent matters (I’ll respond ASAP).  
+- **Email**: Ideal for longer updates or requests requiring deeper thought.  
+- **Calendar**: Please book most meetings in advance so I can prioritise and prepare. If you’re blocked or need urgent help, let me know—we’ll sort it out ASAP.  
 
 ### **Working Hours & Flexibility**  
-- **In-Office Days** – Our anchor days for planning and team time are flexible (we'll define them togetherr).  
-- **Remote Work** – I fully trust you to manage your time. If you’re away for more than an hour during core hours (10am–4pm), add an “Out of Office” note to your calendar.  
-- **After Hours** – No response expected unless you’re on-call. Please avoid checking Slack/Teams outside work hours.  
+- **In-Office Days**: Our anchor days for planning and team time are flexible (we'll define them togetherr).  
+- **Remote Work**: I fully trust you to manage your time. If you’re away for more than an hour during core hours (10am–4pm), add an “Out of Office” note to your calendar.  
+- **After Hours**: No response expected unless you’re on-call. Please avoid checking Slack/Teams outside work hours.  
 
 ### **On-Call & Production Support**  
-- **Rotation** – Each day, one team member monitors production support.  
-- **What to Do** – Investigate issues and flag urgency (e.g., respond with an emoji like 🟡 or 🚨). You’re not expected to fix everything immediately.  
-- **Escalation** – Acknowledge alerts promptly. If unresolved by the end of the day, escalate with a ticket or message.  
+- **Rotation**: Each day, one team member monitors production support.  
+- **What to Do**: Investigate issues and flag urgency (e.g., respond with an emoji like 🟡 or 🚨). You’re not expected to fix everything immediately.  
+- **Escalation**: Acknowledge alerts promptly. If unresolved by the end of the day, escalate with a ticket or message.  
 
 ---
 
 ## 4. Team Workflow & Processes  
 
 ### **Planning & Sprints**  
-- **Sprint Planning** – Held every other Monday. We focus on estimating well and delivering real value.  
-- **Ticket Ownership** – Read every ticket carefully. If something’s unclear, raise it early.  
-- **If Estimates Go Wrong** – Raise it early. We aim to improve accuracy — not push through at all costs.  
+- **Sprint Planning**: Held every other Monday. We focus on estimating well and delivering real value.  
+- **Ticket Ownership**: Read every ticket carefully. If something’s unclear, raise it early.  
+- **If Estimates Go Wrong**: Raise it early. We aim to improve accuracy — not push through at all costs.  
 
 ### **Retrospectives**  
 - We run these at the end of each sprint. Share what didn’t go well, but also suggest how we can fix or improve it.  
 
 ### **Feature Ownership**  
-- **End to End** – Lead the full life-cycle of a feature: design, stakeholder buy-ins, delegation, launch, and iteration.  
-- **After Launch** – Monitor adoption, gather feedback, and iterate.  
+- **End to End**: Lead the full life-cycle of a feature: design, stakeholder buy-ins, delegation, launch, and iteration.  
+- **After Launch**: Monitor adoption, gather feedback, and iterate.  
 
 ---
 
 ## 5. Decision-Making  
-- **Default Mode** – Decisions should sit with those closest to the work.  
-- **When I Step In** – If things are blocked, misaligned, or affect the wider organisation.  
+- **Default Mode**: Decisions should sit with those closest to the work.  
+- **When I Step In**: If things are blocked, misaligned, or affect the wider organisation.  
 - **How We Decide**  
   - Collaboratively.  
   - Use data where we can.  
@@ -134,4 +134,4 @@ Everyone in the organisation. This isn’t static: it will evolve with your feed
 ### **Final Thoughts**  
 This isn’t meant to be perfect or complete. It’s a starting point: something we’ll shape together as we go. If anything here doesn’t sit right, please say so. I’m always open to suggestions.  
 
-*Thanks for taking the time to read this. I look forward to hearing your thoughts.*
+*Thanks for taking the time to read this. I'd love to hear your thoughts.*
