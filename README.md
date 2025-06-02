@@ -45,7 +45,7 @@ Everyone in the organisation. This isn’t static: it will evolve with your feed
 - **Calendar** – Please book most meetings in advance so I can prioritise and prepare. If you’re blocked or need urgent help, let me know—we’ll sort it out ASAP.  
 
 ### **Working Hours & Flexibility**  
-- **In-Office Days** – Our anchor days for planning and team time are flexible (we'll defined them togetherr).  
+- **In-Office Days** – Our anchor days for planning and team time are flexible (we'll define them togetherr).  
 - **Remote Work** – I fully trust you to manage your time. If you’re away for more than an hour during core hours (10am–4pm), add an “Out of Office” note to your calendar.  
 - **After Hours** – No response expected unless you’re on-call. Please avoid checking Slack/Teams outside work hours.  
 
