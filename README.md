@@ -1,5 +1,5 @@
 # Manager’s ReadMe  
-*“A leader’s role is to bridge vision and execution, empower people to thrive, and adapt to the needs of the organisation — whether it’s a five-person start-up or a 50,000-person enterprise.”*
+*“A leader’s role is to bridge vision and execution, empower people to thrive, and adapt to the needs of the organisation - whether it’s a five-person start-up or a 50,000-person enterprise.”*
 
 ---
 
@@ -42,7 +42,7 @@ Everyone in the organisation. This isn’t static: it will evolve with your feed
 ### **How to Reach Me**  
 - **Slack/Teams**: Best for quick, informal messages (I aim to respond to non-urgent items within an hour). Use 🟡 for urgent matters (I’ll respond ASAP).  
 - **Email**: Ideal for longer updates or requests requiring deeper thought.  
-- **Calendar**: Please book most meetings in advance so I can prioritise and prepare. If you’re blocked or need urgent help, let me know—we’ll sort it out ASAP.  
+- **Calendar**: Please book most meetings in advance so I can prioritise and prepare. If you’re blocked or need urgent help, let me know — we’ll sort it out ASAP.  
 
 ### **Working Hours & Flexibility**  
 - **In-Office Days**: Our anchor days for planning and team time are flexible (we'll define them togetherr).  
@@ -94,7 +94,7 @@ Everyone in the organisation. This isn’t static: it will evolve with your feed
 - I’m also keen to hear how I can improve: share feedback however works best for you (1:1s, DMs, email, or anonymously).  
 
 ### **Career Development**  
-- We’ll check in on your career path every quarter — or at least biannually. I’ll help you find opportunities that align with your goals, even if that means looking outside your current team.  
+- We’ll check in on your career path every quarter - or at least biannually. I’ll help you find opportunities that align with your goals, even if that means looking outside your current team.  
 
 ### **Initiative Ownership**  
 - If something bothers you or slows you down, take the lead: log it, flag it, or suggest a change. We’ll prioritise from there.  
