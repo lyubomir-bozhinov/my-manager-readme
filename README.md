@@ -31,9 +31,11 @@ Everyone in the organisation. This isn’t static: it will evolve with your feed
 ### **What I Value**  
 - **Adaptability**: Good leadership shifts depending on context and scale.  
 - **Empathy**: People first; processes follow.  
-- **Ownership**: Everyone owns outcomes, not just tasks. If you spot a problem, fix it. Or at least raise it. 
+- **Ownership\***: Everyone owns outcomes, not just tasks. If you spot a problem, fix it. Or at least raise it. 
 - **Candour**: Speak up early and honestly. Disagree if needed. Alignment stems from clarity.  
 - **Efficiency**: Making the most of our time, resources, and workflows - but never at the expense of quality.  
+
+> *Ownership means being responsible for the result, not just your part in it. You don’t need to do everything yourself, but you follow through, raise risks, ask questions, and close the loop. It’s about being proactive and thinking in systems, not just deliverables.
 
 ---
 
@@ -93,6 +95,9 @@ Everyone in the organisation. This isn’t static: it will evolve with your feed
   - Blockers or team dynamics.  
   - Priorities and direction.  
 - I’m also keen to hear how I can improve: share feedback however works best for you (1:1s, DMs, email, or anonymously).  
+
+### **Mistakes Happen**
+We’ll all make them, including me. What matters is how we respond. I value transparency, learning, and shared responsibility over blame. Let’s own it, fix it, and talk about what we learned. That’s how we build trust and get better - together.
 
 ### **Career Development**  
 - We’ll check in on your career path every quarter - or at least biannually. I’ll help you find opportunities that align with your goals, even if that means looking outside your current team.  
