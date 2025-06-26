@@ -24,9 +24,9 @@ Everyone in the organisation. This isn’t static: it will evolve with your feed
 ## 2. My Role & Values  
 
 ### **How I Define Success**  
-1. **Team Autonomy**: The team runs smoothly even when I’m not directly involved in every detail.  
-2. **Reliable Delivery**: We consistently ship excellent work and meet deadlines without sacrificing quality.  
-3. **Career Growth**: Supporting you in growing your career, even if it eventually takes you elsewhere.  
+1. **Team Autonomy**: The team runs smoothly even when I’m not directly involved in every detail. This allows us to scale our impact and ensures everyone feels empowered.
+2. **Reliable Delivery**: We consistently ship excellent work and meet deadlines without sacrificing quality. Our stakeholders depend on us, and consistent delivery builds trust and momentum.
+3. **Career Growth**: Supporting you in growing your career, even if it eventually takes you elsewhere. Your individual growth fuels our collective success, and I believe in investing in your long-term journey.
 
 ### **What I Value**  
 - **Adaptability**: Good leadership shifts depending on context and scale.  
@@ -40,14 +40,14 @@ Everyone in the organisation. This isn’t static: it will evolve with your feed
 ## 3. Communication & Availability  
 
 ### **How to Reach Me**  
-- **Slack/Teams**: Best for quick, informal messages (I aim to respond to non-urgent items within an hour). Use 🟡 for urgent matters (I’ll respond asap).  
+- **Slack/Teams**: Best for quick, informal messages (I aim to respond to non-urgent items within a reasonable time-frame). Use 🟡 for urgent matters (I’ll respond asap).  
 - **Email**: Ideal for longer updates or requests requiring deeper thought.  
 - **Calendar**: Please book most meetings in advance so I can prioritise and prepare. If you’re blocked or need urgent help, do let me know, and we’ll sort it out asap.  
 
 ### **Working Hours & Flexibility**  
 - **In-Office Days**: Our anchor days for planning and team time are flexible (we'll define them together).  
 - **Remote Work**: I fully trust you to manage your time. If you’re away for more than an hour during core hours (i.e., 10am–4pm), add an “Out of Office” note to your calendar.  
-- **After Hours**: No response expected unless you’re on-call. Please avoid checking Slack/Teams outside work hours.  
+- **After Hours**: No response expected unless you’re on-call. I trust you to manage your work-life balance and strongly encourage you to disconnect and avoid checking Slack/Teams outside work hours to support your well-being.
 
 ### **On-Call & Production Support**  
 - **Rotation**: Each day, one team member monitors production support.  
@@ -68,7 +68,7 @@ Everyone in the organisation. This isn’t static: it will evolve with your feed
 
 ### **Feature Ownership**  
 - **End to End**: Lead the full life-cycle of a feature: design, stakeholder buy-ins, delegation, launch, and iteration.  
-- **After Launch**: Monitor adoption, gather feedback, and iterate.  
+- **After Launch**: Monitor adoption, gather feedback, and iterate with the goals of continuous improvement and feature evolution in mind.
 
 ---
 
@@ -76,7 +76,8 @@ Everyone in the organisation. This isn’t static: it will evolve with your feed
 - **Default Mode**: Decision-making power should reside with those closest to the work.  
 - **When I Step In**: If things are blocked, misaligned, or affect the wider organisation.  
 - **How We Decide**  
-  - Collaboratively and resolutely - but always keeping an open mind.
+  - Collaboratively and resolutely, while always keeping an open mind.
+  - We prioritize speed where appropriate, balancing thoroughness with the need for timely action.
   - Use data where we can, gather when absent. Intuition, but only if deeply informed.
   - Run small experiments/POCs over debating hypotheticals.
   - Choose simple, reversible paths when possible in line with Andy Grove’s idea of Revolving Doors.
@@ -132,6 +133,6 @@ Everyone in the organisation. This isn’t static: it will evolve with your feed
 ---
 
 ### **Final Thoughts**  
-This isn’t meant to be perfect or complete. It’s a starting point: something we’ll shape together as we go. If anything here doesn’t sit right, please say so. I’m always open to suggestions.  
+This isn’t meant to be perfect or complete. It’s a starting point: something we’ll shape together as we go. If anything here doesn’t make sense, please say so. I’m always open to suggestions.
 
-*Thanks for taking the time to read this. I'd love to hear your thoughts.*
+*Thanks for taking the time to read this. What's one thing you'd add or change to make this more helpful?*
