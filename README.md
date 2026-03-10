@@ -82,7 +82,7 @@ Everyone in the organisation. This isn’t static: it will evolve with your feed
   - We prioritize speed where appropriate, balancing thoroughness with the need for timely action.
   - Use data where we can, gather when absent. Intuition, but only if deeply informed.
   - Run small experiments/POCs over debating hypotheticals.
-  - Choose simple, reversible paths when possible in line with Andy Grove’s idea of Revolving Doors.
+  - Choose simple, reversible paths when possible. Jeff Bezos frames it as one-way versus two-way doors.
 
 ---
 
