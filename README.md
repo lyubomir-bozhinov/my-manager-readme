@@ -1,143 +1,175 @@
-# Manager’s ReadMe  
-*“A leader’s role is to bridge vision and execution, empower people to thrive, and adapt to the needs of the organisation - whether it’s a five-person start-up or a 50,000-person enterprise.”*
+# Manager's ReadMe
+
+This is how I work, what I value, and what I expect from people working with me. It's a starting point, not a contract. I'll update it as we go. If something here doesn't match how you experience me in practice, say so — that's a bug, and I want to fix it.
 
 ---
 
-## 1. Introduction  
+## 1. The Work
 
-### **Purpose**  
-This document outlines how I work, what I value, and what you can expect from me - and what I’ll expect in return. It’s here to:  
-- Reduce ambiguity by setting clear expectations.  
-- Encourage you to question, challenge, and contribute openly.  
-- Share lessons from my journey in executive and hands-on engineering leadership.  
+I run AI-native engineering in environments where mistakes are loud, measurable, and immediate. The job titles change. The teams change. The stack changes. The work stays the same: build systems that hold up when it matters, and teams that can sustain them.
 
-### **Who It’s For**  
-Everyone in the organisation. This isn’t static: it will evolve with your feedback and as our team grows.  
+Three things I measure success against:
 
-### **What This Isn’t**  
-- A contract or a rigid rulebook.  
-- A substitute for open conversation.  
-- Exhaustive; some things will only come to light as we work together.  
+**Team autonomy.** The team runs well even when I'm not in the room. If everything routes through me, I've built a bottleneck, not a team.
+
+**Reliable delivery.** We ship excellent work and meet the deadlines that matter, without trading away quality. Stakeholders trust us because we earn it on every cycle, not because we ask for it.
+
+**Career growth.** I invest in where you're going, even if it eventually takes you elsewhere. Your trajectory fuels ours.
 
 ---
 
-## 2. My Role & Values  
+## 2. What I Value
 
-### **How I Define Success**  
-1. **Team Autonomy**: The team runs smoothly even when I’m not directly involved in every detail. This allows us to scale our impact and ensures everyone feels empowered.
-2. **Reliable Delivery**: We consistently ship excellent work and meet deadlines without sacrificing quality. Our stakeholders depend on us, and consistent delivery builds trust and momentum.
-3. **Career Growth**: Supporting you in growing your career, even if it eventually takes you elsewhere. Your individual growth fuels our collective success, and I believe in investing in your long-term journey.
+**Patience.** Let the right answer surface. Decisions wait until they're decisions. Most things are less urgent than they feel.
 
-### **What I Value**  
-- **Adaptability**: Good leadership shifts depending on context and scale.  
-- **Empathy**: People first; processes follow.  
-- **Ownership\***: Everyone owns outcomes, not just tasks. If you spot a problem, fix it. Or at least raise it. 
-- **Candour**: Speak up early and honestly. Disagree if needed. Alignment stems from clarity.  
-- **Efficiency**: Making the most of our time, resources, and workflows - but never at the expense of quality.  
+**Curiosity.** Learn it. Ship it. Write it. Stay interested in the work — yours and other people's. The day you stop asking why is the day you stop being useful.
 
-> *Ownership means being responsible for the result, not just your part in it. You don’t need to do everything yourself, but you follow through, raise risks, ask questions, and close the loop. It’s about being proactive and thinking in systems, not just deliverables.
+**Focus.** Outcomes over output. Hours in a chair don't ship features. The work you finish counts more than the work you start.
+
+**Ownership.** Own the result, not just your part. If you see it, raise it. If you can fix it, fix it. If you can't, find someone who can — and close the loop.
+
+**Candour.** Speak up early and honestly. Disagree if needed. Alignment stems from clarity, not consensus theatre.
 
 ---
 
-## 3. Communication & Availability  
+## 3. Communication
 
-### **How to Reach Me**  
-- **Slack/Teams**: Best for quick, informal messages (I aim to respond to non-urgent items within a reasonable time-frame). Use 🟡 for urgent matters (I’ll respond asap).  
-- **Email**: Ideal for longer updates or requests requiring deeper thought.  
-- **Calendar**: Please book most meetings in advance so I can prioritise and prepare. If you’re blocked or need urgent help, do let me know, and we’ll sort it out asap.  
+**Slack/Teams.** Best for quick, informal items. I respond to non-urgent messages within a working day. Use 🟡 for things that genuinely can't wait.
 
-### **Working Hours & Flexibility**  
-- **In-Office Days**: Our anchor days for planning and team time are flexible (we'll define them together).  
-- **Remote Work**: I fully trust you to manage your time. If you’re away for more than an hour during core hours (i.e., 10am–4pm), add an “Out of Office” note to your calendar.  
-- **After Hours**: No response expected unless you’re on-call. I trust you to manage your work-life balance and strongly encourage you to disconnect and avoid checking Slack/Teams outside work hours to support your well-being.
+**Email.** Better for longer thinking — things I should read carefully before answering.
 
-### **On-Call & Production Support**  
-- **Rotation**: Each day, one team member monitors production support.  
-- **What to Do**: Investigate issues and flag urgency (e.g., respond with an emoji like 🟡 or 🚨). You’re not expected to fix everything immediately.
-- **Escalation**: Acknowledge alerts promptly. If unresolved by the end of the day, escalate with a ticket or message.
+**Calendar.** Book meetings in advance so I can prepare. If you're blocked, ping me — I'll find time.
+
+**Working hours.** Anchor hours are 10am–4pm for synchronous work. Around that, I trust you to manage your own time. Out of office over an hour during anchor hours, drop it on the calendar.
+
+**After hours.** No response expected unless you're on-call. I won't check Slack outside hours, and I'd rather you didn't either. Sustained work needs recovery; rest isn't optional.
+
+**On-call.** One person on production support per day. You investigate, triage, and flag urgency. You don't have to fix everything — but you do have to acknowledge. End of day, anything unresolved gets a ticket and an escalation note.
 
 ---
 
-## 4. Team Workflow & Processes  
+## 4. AI in Our Work
 
-### **Planning & Sprints**  
-- **Sprint Planning**: Held every other Monday (if applicable). We focus on estimating well and delivering real value.  
-- **Ticket Ownership**: Read every ticket carefully. If something’s unclear, raise it early.  
-- **If Estimates Go Wrong**: Raise it early. We aim to improve accuracy, not push through at all costs.  
+I use AI every day. So should you. I write tooling, ship to open source, run multi-agent workflows in production. The leverage is real and growing.
 
-### **Retrospectives**  
-- We run these at the end of each sprint/delivery cycle. Share what didn’t go well, but also suggest how we can fix or improve it.  
+Three principles set the line for me.
 
-### **Feature Ownership**  
-- **End to End**: Lead the full life-cycle of a feature: design, stakeholder buy-ins, delegation, launch, and iteration.  
-- **After Launch**: Monitor adoption, gather feedback, and iterate with the goals of continuous improvement and feature evolution in mind.
+**Augmentation, not replacement.** AI is the best junior engineer you've ever worked with and the worst senior engineer. It accelerates the things you already understand. It cannot substitute for the judgment you haven't built yet. Lean on it for the boring parts. Stay in the loop for everything else.
 
----
+**Humans own the outcome. Therefore humans own the code.** Every line that ships under your name is your line. If you can't explain why it's there, why that approach, what it costs, what could break it — then it isn't ready. No vibing. No "the agent did it." The keyboard is yours.
 
-## 5. Decision-Making  
-- **Default Mode**: Decision-making power should reside with those closest to the work.  
-- **When I Step In**: If things are blocked, misaligned, or affect the wider organisation.  
-- **How We Decide**  
-  - Collaboratively and resolutely, while always keeping an open mind.
-  - We prioritize speed where appropriate, balancing thoroughness with the need for timely action.
-  - Use data where we can, gather when absent. Intuition, but only if deeply informed.
-  - Run small experiments/POCs over debating hypotheticals.
-  - Choose simple, reversible paths when possible. Jeff Bezos frames it as one-way versus two-way doors.
+**Bounded autonomy.** Tight oversight where mistakes are loud. Looser where they aren't. Never zero on anything that touches production state, customer data, or regulatory surface. The agent handles the inner loop; the human owns the outer loop. The principle is the same one we use for junior engineers — risk determines oversight, trust determines how much friction the oversight introduces. Oversight should always be loosening, not tightening. Earned autonomy, not granted.
+
+If you're using a tool the team hasn't agreed on, raise it. Most won't be a problem. Some will. Either way, we should know.
 
 ---
 
-## 6. Feedback & Growth  
+## 5. Operating in Regulated Environments
 
-### **1:1s**  
-- **Weekly or Fortnightly**, 30 minutes. You lead the agenda (please share it the day before).  
-- **Focus Areas**:  
-  - Career growth and skills development.  
-  - Blockers or team dynamics.  
-  - Priorities and direction.  
-- I’m also keen to hear how I can improve: share feedback however works best for you (1:1s, DMs, email, or anonymously).  
+Parts of my career have been in places where the wrong decision is expensive and immediate. Trading platforms, regulated SaaS, financial infrastructure. The blast radius is real. So is the audit trail.
 
-### **Mistakes Happen**
-We’ll all make them, including me. What matters is how we respond. I value transparency, learning, and shared responsibility over blame. Let’s own it, fix it, and talk about what we learned. That’s how we build trust and get better - together.
+A few things follow from that.
 
-### **Career Development**  
-- We’ll check in on your career path every quarter - or at least biannually. I’ll help you find opportunities that align with your goals, even if that means looking outside your current team.  
+Mistakes leave a trace. That isn't a reason to fear them — it's a reason to make them honestly, name them quickly, and learn out loud. The teams I trust most are the ones that surface their own errors before anyone else has to.
 
-### **Initiative Ownership**  
-- If something bothers you or slows you down, take the lead: log it, flag it, or suggest a change. We’ll prioritise from there.  
+Decisions aren't equal. Some get a glance. Some get a deep review. Some need two people in the room. Calibrate the response to what's actually at stake — not to what feels formal. Over-reviewing routine work is as expensive as under-reviewing critical work; both erode trust in the process.
+
+Audit trails are not bureaucracy. They are the unit of trust between us and the regulator, and between us and ourselves three months from now. Write things down. Leave a paper trail. Future-you is the audience.
 
 ---
 
-## 7. Culture & Collaboration  
+## 6. How We Work
 
-### **Keeping Stakeholders Informed**  
-- Keep all concerned parties in the loop (e.g., PMs, QA, and Design). Weekly written updates are helpful and encouraged. If that feels too much, a quick Slack message also works.  
+**Planning.** Sprint or kanban — depends on the team. Either way: read the ticket carefully, raise unknowns early, prefer small experiments over long debates. If an estimate is going wrong, surface it the day you notice, not the day it's due.
 
-### **Resolving Conflict**  
-- Go direct, be respectful. If you’re stuck, I’m happy to step in to mediate and support.  
+**Retros.** Every cycle. What didn't work, and what we'd do differently. Action items live in the backlog, not in a slide.
 
-### **Accountability**  
-- If you’re blocked, raise it early. If something goes wrong, own it and propose a way forward.  
+**Feature ownership.** End to end. You lead design, stakeholders, build, launch, and the iteration after. Adoption matters more than ship date. A feature isn't done because it shipped — it's done when it's doing what it was supposed to.
 
 ---
 
-## 8. How I Work  
+## 7. Decision-Making
 
-### **Style & Preferences**  
-- Big-picture thinking, decisive action, and honest feedback.  
-- I’m energised by helping people grow, untangling complex quandaries, and building systems that last - ultimately, to solve difficult, real problems for others.  
+Decisions live with the people closest to the work. I step in when things are blocked, misaligned, or when a choice affects something beyond the team.
 
-### **Availability & Boundaries**  
-- I’ll respond quickly during working hours. Outside work, I try to switch off, and I encourage you to do the same. 
+A few defaults:
 
-### **What Keeps Me Going**  
-- Coaching new leaders  
-- Untangling ambiguous real-world problems  
-- Building robust systems  
-- Outside of work: Travelling (sometimes), reading (often), and exploring green spaces with my family  
+- Use data where you can. Gather it where you can't. Trust intuition only if it's deeply informed — and only if you can articulate the why.
+- Prefer simple, reversible paths. One-way doors get the room. Two-way doors get the call.
+- Run small experiments over debating hypotheticals. Two days of evidence beats two weeks of opinion.
+- *Disagree and commit.* Disagreement in the room. Alignment outside it. Bezos was right about that one.
 
 ---
 
-### **Final Thoughts**  
-This isn’t meant to be perfect or complete. It’s a starting point: something we’ll shape together as we go. If anything here doesn’t make sense, please say so. I’m always open to suggestions.
+## 8. Feedback & Growth
 
-*Thanks for taking the time to read this. What's one thing you'd add or change to make this more helpful?*
+**1:1s.** Weekly or fortnightly, thirty minutes. You set the agenda — share it the day before. We cover what you want to cover. If you don't have anything pressing, we skip.
+
+**Mistakes.** Yours, mine, ours. We own them, fix them, and talk about what we learned. The conversation is about the work, not the person.
+
+**Feedback from me.** Real time. No saved-up surprises in performance reviews. If I notice something, I'll tell you within the week — and I expect the same back. Reviews summarise; they don't reveal.
+
+**Career check-ins.** Quarterly, biannually at minimum. I'll help you find opportunities even if they're not on my team. Especially if they're not on my team.
+
+**Feedback on me.** Tell me. 1:1, DM, anonymous form, doesn't matter. I'm looking for what to fix, not for reassurance.
+
+---
+
+## 9. Stay Technical
+
+I still code. I ship tooling. I contribute to open source. I expect engineering leaders on my team to do the same — within reason.
+
+The mix changes with the role. A team lead might be 60/40 technical. A director, closer to 20/80. A CTO, closer to 10/90. The exact ratio matters less than this: it should never hit zero. The day you stop understanding the work is the day your judgment stops being useful. You don't manage your way out of needing to know what good looks like.
+
+This isn't a license to micromanage code. It's a reminder that you cannot lead what you can't read.
+
+---
+
+## 10. Build in Public
+
+I write. I ship open-source tooling. I speak at conferences. None of it is a marketing tactic — it's how I stay sharp. Publishing what you're learning is the fastest way to find out what you actually understand.
+
+The team is welcome to do the same, and encouraged to. Conference time, blog time, OSS contribution — these aren't perks. They're part of the work, as long as the day job stays solid. If you want to write something on company time, propose it. If you want to speak somewhere, tell me — I'll help you prep.
+
+You don't have to have a public profile to work with me. But if you want one, I'll back it.
+
+---
+
+## 11. Culture & Collaboration
+
+**Stakeholders.** Keep PMs, Design, QA, and adjacent teams in the loop. Weekly written updates are best. A quick message works. Silence is what we don't do.
+
+**Conflict.** Go direct first, be respectful, assume good intent. If you're stuck, I'll mediate. What I won't do is settle it for you over your head.
+
+**Safety.** I'm trying to build safety for disagreement, not safety for comfort. The team where nobody pushes back is the team where the worst idea wins by default.
+
+---
+
+## 12. What Keeps Me Going
+
+- Coaching engineering leaders into operators who can hold the whole stack.
+- Building deterministic AI in places where mistakes are loud.
+- Untangling messy real-world problems and writing about what works.
+- Outside work: reading often, travelling sometimes, exploring green spaces with my family.
+
+---
+
+## Influences
+
+The books I keep coming back to, in case you're looking for the same:
+
+- Camille Fournier, *The Manager's Path* — the career framework I steal from openly.
+- Skelton and Pais, *Team Topologies* — Conway's Law, taken seriously.
+- Kim Scott, *Radical Candor* — care personally, challenge directly. Long-form Candour.
+- Simon Sinek, *Leaders Eat Last* — the Circle of Safety, drawn on purpose.
+- Jocko Willink, *Extreme Ownership* — Own the result. Own the blame. Own the fix.
+
+Not a syllabus. A starting set.
+
+---
+
+## Final Thoughts
+
+This document is a starting point, not a finished thing. We'll shape it together. If something here doesn't match how you experience me in practice, that's the signal — say so, and we'll fix it.
+
+*Thanks for reading. What's one thing you'd add or change to make this more useful?*
