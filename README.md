@@ -30,6 +30,8 @@ Three things I measure success against:
 
 **Candour.** Speak up early and honestly. Disagree if needed. Alignment stems from clarity, not consensus theatre.
 
+**Evidence.** Nothing ships because it felt better. If we change something, we show it got better, against a baseline rather than a hunch. That goes double for AI, where "it looks right" is the most expensive sentence in the building.
+
 ---
 
 ## 3. Communication
@@ -40,17 +42,17 @@ Three things I measure success against:
 
 **Calendar.** Book meetings in advance so I can prepare. If you're blocked, ping me — I'll find time.
 
-**Working hours.** Anchor hours are 10am–4pm for synchronous work. Around that, I trust you to manage your own time. Out of office over an hour during anchor hours, drop it on the calendar.
+**Working hours.** We agree core overlap hours as a team, around the time zones we actually work across. Outside them, I trust you to manage your own time. Out of office for over an hour during core hours? Drop it on the calendar.
 
-**After hours.** No response expected unless you're on-call. I won't check Slack outside hours, and I'd rather you didn't either. Sustained work needs recovery; rest isn't optional.
+**After hours.** No response expected unless you're on call. I'll sometimes take late calls with colleagues in other time zones; that's my schedule, not yours. Sustained work needs recovery; rest isn't optional.
 
-**On-call.** One person on production support per day. You investigate, triage, and flag urgency. You don't have to fix everything — but you do have to acknowledge. End of day, anything unresolved gets a ticket and an escalation note.
+**On-call.** However the rota works, the principle is the same: investigate, triage, and flag urgency. You don't have to fix everything — but you do have to acknowledge. Anything unresolved gets a ticket and an escalation note.
 
 ---
 
 ## 4. AI in Our Work
 
-I use AI every day. So should you. I write tooling, ship to open source, run multi-agent workflows in production. The leverage is real and growing.
+I use AI every day. So should you. I write tooling and run multi-agent workflows daily. The leverage is real and growing.
 
 Three principles set the line for me.
 
@@ -117,7 +119,7 @@ A few defaults:
 
 ## 9. Stay Technical
 
-I still code. I ship tooling. I contribute to open source. I expect engineering leaders on my team to do the same — within reason.
+I still code. I ship tooling. I expect engineering leaders on my team to stay hands-on too — within reason.
 
 The mix changes with the role. A team lead might be 60/40 technical. A director, closer to 20/80. A CTO, closer to 10/90. The exact ratio matters less than this: it should never hit zero. The day you stop understanding the work is the day your judgment stops being useful. You don't manage your way out of needing to know what good looks like.
 
